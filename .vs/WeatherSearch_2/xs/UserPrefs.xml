@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{364C827F-4FD9-4922-99F0-299D6750DD86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WeatherSearch_2/Program.cs">
+    <Files>
+      <File FileName="WeatherSearch_2/Program.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherSearch__2 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

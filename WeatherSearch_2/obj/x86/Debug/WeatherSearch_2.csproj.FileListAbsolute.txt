@@ -1,0 +1,8 @@
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/bin/Debug/WeatherSearch_2.exe
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/bin/Debug/WeatherSearch_2.pdb
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/obj/x86/Debug/WeatherSearch_2.csproj.CoreCompileInputs.cache
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/obj/x86/Debug/WeatherSearch_2.exe
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/obj/x86/Debug/WeatherSearch_2.pdb
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/bin/Debug/Newtonsoft.Json.dll
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/bin/Debug/Newtonsoft.Json.xml
+/Users/hayesd5/Projects/WeatherSearch_2/WeatherSearch_2/obj/x86/Debug/WeatherSearch_2.csprojResolveAssemblyReference.cache
